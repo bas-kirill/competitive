@@ -1,0 +1,550 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"buf"
+			],
+			[
+				"f",
+				"fread"
+			],
+			[
+				"d",
+				"def\t#ifndef … #define … #endif"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"t",
+				"txt"
+			],
+			[
+				"s",
+				"size_t"
+			],
+			[
+				"sc",
+				"struct\tstruct"
+			],
+			[
+				"set",
+				"no-stack-protector"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n\tmt19937 rng(chrono::steady_clock().now().time_since_epoch().count());\n\tcout << uniform_int_distribution<int>(0, 1e9)(rn)g << \" \" << uniform_int_distribution<int>(0, 1e9)(rng) << endl;\n}",
+			"file": "/C/GitHub/cpp/A__Generator.cpp",
+			"file_size": 252,
+			"file_write_time": 132002512587124211,
+			"settings":
+			{
+				"buffer_size": 246,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/GitHub/cpp/codeforces/Тренировки СПбГУ/A.cpp",
+			"settings":
+			{
+				"buffer_size": 67,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n2 14\n\n16\n\n9 10\n\n-1\n\n1 4\n\n-3\n\n",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Windows",
+				"name": "A.cpp -run",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Adva",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Make Stre",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"Fast",
+				"FastOlympicCoding: Make Stress"
+			],
+			[
+				"Package control:Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package control:",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"ls",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/GitHub/cpp/A__Good.cpp",
+		"/C/GitHub/cpp/A.cpp",
+		"/C/GitHub/cpp/Generator.cpp",
+		"/C/GitHub/cpp/A_Good.cpp",
+		"/C/GitHub/cpp/test_sublime.cpp",
+		"/C/GitHub/cpp/input.txt",
+		"/C/GitHub/cpp/codeforces/Global round 2/input.txt",
+		"/C/GitHub/cpp/codeforces/Global round 2/E.cpp",
+		"/C/GitHub/cpp/mail.ru/A.cpp",
+		"/C/GitHub/cpp/mail.ru/B.cpp",
+		"/C/Users/Кирилл/AppData/Roaming/Sublime Text 3/Packages/User/cplusplus1.sublime-build",
+		"/C/Users/Кирилл/AppData/Roaming/Sublime Text 3/Packages/User/cplusplus.sublime-build",
+		"/C/GitHub/cpp/codeforces/Тренировки СПбГУ/test_sublime.cpp",
+		"/C/GitHub/cpp/codeforces/Тренировки СПбГУ/A.cpp",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/token-game/solutions/token_game_nb_opt_d3.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/token-game/solutions/token_game_nb.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/token-game/solutions/token_game_nb_map.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/Новая папка/problems/necklace/solutions/sol_mt_nlogn.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/Новая папка/problems/necklace/solutions/sol_ma_nlog2n.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/Новая папка/problems/necklace/solutions/sol_ask_debug.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/Новая папка/problems/lz-pattern/solutions/lz_nn_periodic.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/Новая папка/problems/lz-pattern/solutions/lz_iz_slow.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/Новая папка/problems/lz-pattern/solutions/lz_mp_stress.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/Новая папка/problems/token-game/solutions/token_game_nb_opt.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/token-game/solutions/token_game_nb_opt.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/token-game/solutions/ec_ok.opt.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/token-game/solutions/ec_ok.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/token-game/solutions/ec_nm.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/token-game/solutions/ec_n_add_m.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/lz-pattern/solutions/lz_iz.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/problems/lz-pattern/solutions/lz_iz_slow.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/lz-pattern-49$windows/solutions/lz_pkun_blocks_bug.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/lz-pattern-49$windows/solutions/lz_pkun_blocks.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/lz-pattern-49$windows/solutions/lz_nn_periodic.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/lz-pattern-49$windows/solutions/lz_mp_stress.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/lz-pattern-49$windows/solutions/lz_mp_v0.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/lz-pattern-49$windows/solutions/lz_iz_slow.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/Новая папка/problems/necklace/solutions/sol_ask_nlogn.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/lz-pattern-49$windows/solutions/lz_iz_23.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/lz-pattern-49$windows/solutions/lz_iz.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/cleaning-snow/cleaning-snow-31$windows/solutions/ec_qlogq_coord_comp.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/cleaning-snow/cleaning-snow-31$windows/solutions/ec_qlogn_small_n.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/cleaning-snow/cleaning-snow-31$windows/solutions/ec_qlog2q_coord_comp_fastio.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path/solutions/find-path_is_nm.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path/solutions/find-path_is_mk.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path/solutions/find-path_is_2pn.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/binsearch-one-lie/solutions/pkun_3logn.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/find-path_is_nm_wa2.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/find-path_is_mk.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/find-path_is_2pn.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/find-path_is.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/find_path_is_re.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/find_path_diff_k_nb.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/find_path_diff_k_nb_unique_dists.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/find_path_diff_k_nb_brute_force.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/ec_ok_opt.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/ec_ok.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/ds_ok.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/ec_all_segs.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path-diff-k/solutions/ds_group3.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/binsearch-one-lie/solutions/pkun_2logn.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/binsearch-one-lie/solutions/dummy-sol.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/contest-11740/problems/cleaning-snow/solutions/ec_qlogn.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/contest-11740/problems/geology/solutions/ec_slow_check_opt.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/contest-11740/problems/geology/solutions/sol.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/geology/solutions/wa_testing.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/geology/solutions/ec_ok.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/geology/solutions/ac_inc.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/geology/solutions/sol.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/binsearch-one-lie/solutions/binsearch-one-lie_n5.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/binsearch-one-lie/solutions/binsearch_iz_n4.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/binsearch-one-lie/binsearch_iz_n4.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path/solutions/find_path_is_re.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/find-path/solutions/find-path_is.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/cleaning-snow/cleaning-snow-31$windows/solutions/ec_qlogq_coord_comp_fastio.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/cleaning-snow/cleaning-snow-31$windows/solutions/ec_qlogq_treap.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/cleaning-snow/cleaning-snow-31$windows/solutions/ec_qlogq_treap_fastio.cpp.desc",
+		"/C/Users/Кирилл/Desktop/Новая папка/contest-11740/problems/find-path-diff-k/solutions/ds_ok.cpp.desc",
+		"/C/Users/Кирилл/Documents/adoc2/cleaning-snow/cleaning-snow-31$windows/solutions/ec_qlogn.cpp.desc",
+		"/C/Users/Кирилл/Desktop/final_archive/stripe/solutions/stripe_mp_n2.cpp.desc",
+		"/C/Users/Кирилл/Desktop/final_archive/stripe/solutions/stripe_ac_fenvik.cpp.desc",
+		"/C/Users/Кирилл/Desktop/final_archive/stripe/solutions/stripe_ac_NlogN_brackets.cpp.desc",
+		"/C/Users/Кирилл/Desktop/final_archive/stripe/solutions/stripe_ac_n2_drawing_wa.cpp.desc",
+		"/C/Users/Кирилл/Desktop/final_archive/stripe/solutions/stripe_ac_n2_drawing.cpp.desc",
+		"/C/Users/Кирилл/Desktop/final_archive/stripe/solutions/stripe_ac_longreading.cpp.desc",
+		"/C/Users/Кирилл/Desktop/final_archive/stripe/solutions/stripe_ac_n2.cpp.desc",
+		"/C/Users/Кирилл/Desktop/burning-tree-27$windows/solutions/ds_main.cpp.desc",
+		"/C/Users/Кирилл/Desktop/burning-tree-27$windows/solutions/umnik_ok.cpp.desc",
+		"/C/Users/Кирилл/Desktop/burning-tree-27$windows/solutions/ds_nq.cpp.desc",
+		"/C/Users/Кирилл/Desktop/прога/Стандартные алгоритмы/input.txt",
+		"/C/Users/Кирилл/Desktop/прога/Стандартные алгоритмы/output.txt",
+		"/C/Users/Кирилл/Desktop/прога/Стандартные алгоритмы/cycle_negative.cpp",
+		"/C/Users/Кирилл/Documents/CodeBlocks/aesc.grphil.ru/Стандартные алгоритмы/input.txt",
+		"/C/Users/Кирилл/Documents/CodeBlocks/aesc.grphil.ru/Стандартные алгоритмы/cycle_negative.cpp",
+		"/C/Users/Кирилл/Documents/JS/randomInteger.js",
+		"/C/Users/Кирилл/AppData/Local/Temp/Rar$DIa0.585/03.a",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/viruses/solutions/workshop_di_n4.cpp.desc",
+		"/C/Users/Кирилл/Desktop/balls-in-tube-58/solutions/gr_wa1.cpp.desc",
+		"/C/Users/Кирилл/Documents/JS/index.html",
+		"/C/Users/Кирилл/Documents/JS/script.js",
+		"/C/Users/Кирилл/AppData/Local/Temp/Rar$DIa0.673/03",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/viruses/solutions/workshop_di.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/viruses/solutions/workshop_di_brute.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/viruses/solutions/workshop_di_brute_mem.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/viruses/solutions/workshop_di_easy_only.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/viruses/solutions/workshop_gk_n4_fast.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/viruses/solutions/workshop_mp_n4_32_nobreak.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/smartphones/solutions/ak_tl_n2.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/smartphones/solutions/ak_tl_n2_cheat.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/smartphones/solutions/gr_n3.cpp.desc",
+		"/C/Users/Кирилл/Desktop/contest-8039/problems/smartphones/solutions/gr_ok.cpp.desc",
+		"/C/Users/Кирилл/Desktop/example-interactive-binary-search-26/solutions/af_ac_pe.cpp.desc",
+		"/C/Users/Кирилл/Desktop/shrink-matrix-18$windows/solutions/ok_binsearch.cpp.desc",
+		"/C/Users/Кирилл/Desktop/shrink-matrix-18$windows/solutions/ok_presave.cpp.desc",
+		"/C/Users/Кирилл/Desktop/balls-in-tube-58/solutions/gr_n2.cpp.desc",
+		"/C/Users/Кирилл/Desktop/balls-in-tube-58/solutions/vm_wa1.cpp.desc",
+		"/C/Users/Кирилл/Desktop/balls-in-tube-58/solutions/gr_only_right.cpp.desc",
+		"/C/Users/Кирилл/Desktop/balls-in-tube-58/solutions/vm_ok.cpp.desc",
+		"/C/Users/Кирилл/AppData/Local/Temp/Rar$DIb0.205/61.a",
+		"/C/Users/Кирилл/AppData/Local/Temp/Rar$DIb0.829/61",
+		"/C/Users/Кирилл/AppData/Local/Temp/Rar$DIb0.600/58.a",
+		"/C/Users/Кирилл/Documents/prog/JS/Примеры использования mocha/index.html",
+		"/C/Users/Кирилл/Documents/prog/JS/Примеры использования mocha/test.js",
+		"/C/Users/Кирилл/Documents/prog/JS/Примеры использования mocha/test.java",
+		"/C/Users/Кирилл/AppData/Roaming/Sublime Text 3/Packages/User/my_html.sublime-build"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"max_lg",
+			"some",
+			"some problems",
+			"//\n",
+			"\n          dist[v] = dist[u] + 1;\n          p[v] = u;\n          dfs(v);\n        ",
+			"int",
+			"A",
+			"kek",
+			" ="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"max_lg",
+			"\n            int u, v; cin >> u >> v; --u, --v;\n            g[u].pb(v);\n        ",
+			"int"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/GitHub/cpp/A__Generator.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							],
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/GitHub/cpp/codeforces/Тренировки СПбГУ/A.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"delete_forb": true,
+							"edit_mode": false,
+							"fold_buttons": false,
+							"line_numbers": false,
+							"syntax": "Packages/CppFastOlympicCoding/TestSyntax.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.68,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "D.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\GitHub\\cpp\\test_sublime.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,56 @@
+#pragma GCC optimize("Ofast,unroll-loops,no-stack-protector,fast-math")
+#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,tune=native")
+#pragma comment(linker, "/STACK:16777216")
+
+#include <bits/stdc++.h>
+using namespace std;
+using ld = long double;
+using ll = long long;
+using ull = unsigned long long;
+
+#define len(x) int((x).size())
+#define all(x) (x).begin(), (x).end()
+
+int main() {
+    int n, m;
+    cin >> n >> m;
+
+    vector<vector<bool>> ish(n, vector<bool>(m));
+    vector<vector<bool>> res(n, vector<bool>(m, false));
+    vector<vector<bool>> tmp(n, vector<bool>(m));
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < m; j++)
+        {
+            char c;
+            cin >> c;
+
+            if (c == '#')
+            {
+                ish[i][j] = true;
+                tmp[i][j] = true;
+            }
+        }
+    }
+
+    for (int i = 1; i < n - 1; i++)
+    {
+        for (int j = 1; j < m - 1; j++)
+        {
+            if (res[i][j] == false)
+            {
+                res[i-1][j] = true;
+                res[i+1][j] = true;
+                res[i][j-1] = true;
+                res[i][j+1] = true;
+            }
+        }
+    }
+}
+
+/*
+* (Actually read this pls)
+    * Rlly bad errors: int overflow, array bounds
+    * Less bad errors: special cases (n=1?), set tle
+    * Common sense: do smth instead of nothing
+*/
